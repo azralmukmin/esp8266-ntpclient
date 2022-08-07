@@ -2,8 +2,8 @@
 #include <NTPClient.h>
 #include <WiFiUdp.h>
 
-const char* ssid = "azralPhone";
-const char* password = "azral123";
+const char* ssid = "YourWifiSSID";
+const char* password = "YourWifiPassword";
 
 const long utcOffsetInSeconds = 8 * 60 * 60;
 char daysOfTheWeek[7][12] = { "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday" };
