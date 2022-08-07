@@ -1,5 +1,5 @@
 # esp8266-ntpclient
-esp8266 module get date and time from NTP server
+esp8266 module get Malaysia date and time from NTP server
 
 # Testing on: 
 Hardware: 
