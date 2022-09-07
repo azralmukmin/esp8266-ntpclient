@@ -2,11 +2,11 @@
 esp8266 module get Malaysia date and time from NTP server
 
 # Testing on: 
-Hardware: 
+Hardware:   
 LOLIN(WEMOS) D1 mini Pro
 
-Board Manager:
+Board Manager:  
 esp8266 by ESP8266 Community Version 3.0.2
 
-Library:
-NTPClient by Fabrice Weinberg Version 3.2.1
+Library:  
+NTPClient by Fabrice Weinberg Version 3.2.1 https://github.com/arduino-libraries/NTPClient
